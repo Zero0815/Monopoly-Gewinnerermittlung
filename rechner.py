@@ -3,7 +3,7 @@ print('Herzlich Willkommen beim Monopolyrechner von Zero ©!' +
      '\n' +
      'Nachfolgend werden die Scheine einzeln abgefragt (1, 5, 10, 20, 50, 100, 500).')
 
-#Bis zur Nutzereingabe bleib die Begrüßungsnachricht bestehen
+#Bis zur Nutzereingabe bleibt die Begrüßungsnachricht bestehen
 input('Um fortzufahren drücke bitte die Enter-Taste.')
 
 #Liste der verfügbaren Scheine im Spiel
